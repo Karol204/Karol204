@@ -1,7 +1,7 @@
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   [![Linkedin Badge](https://img.shields.io/badge/-Karol_Rogalski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karol-rogalski)](https://www.linkedin.com/in/karol-rogalski)
   [![Gmail Badge](https://img.shields.io/badge/-krogalski204@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krogalski204@gmail.com)](mailto:krogalski204@gmail.com)
-  [![Badge](https://img.shields.io/badge/-Portfolio-8534a3?style=flat-square&link=https://karol-rogalski.herokuapp.com/)](https://karol-rogalski.herokuapp.com/)
+  [![Badge](https://img.shields.io/badge/-Portfolio-8534a3?style=flat-square&link=https://karol-rogalski.herokuapp.com/)](#)
 
 ## About Me  👽
 
